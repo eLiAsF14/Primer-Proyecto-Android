@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin_top">220dp</dimen>
+    <dimen name="activity_text_size">60sp</dimen>
+    <dimen name="activity_button_text_size">32sp</dimen>
+    <dimen name="activity_button_margin_top">32dp</dimen>
+    <dimen name="activity_horizontal_button_margin_top">32dp</dimen>
+    <dimen name="activity_horizontal_margin_top">80dp</dimen>
+</resources>
